@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(250, 198, 246);
+    font-family: 'Padauk', sans-serif;
+    color:slategrey
+}
+#header{
+    font-size:35;
+    width:70%;
+    letter-spacing: 5px;
+    border-radius:40px;
+    padding:10px
+}
+#objects{
+    color:rebeccapurple;
+    font-style:italic;
+    
+}
+hr{
+    width: 300px;
+  
+}
+#camera, #snapshot{
+    width:300px;
+    height:300px;
+    border:royalblue 2px solid;
+    border-radius: 10px;
+
+    
+}
+.btn-primary, .btn-success{
+font-size: 20px;
+
+}
+#objectresults, #accuracyresults{
+    font-size: 25px;
+    color:darkmagenta;
+
+
+}
